@@ -1,0 +1,7 @@
+This is for test
+As a promising short range communication technique, LED to camera communication~(LCC) has attracted increasing attention. %Although the VLC techniques may not be instant ready for the main-stream mobile devices, 
+%We can easily deploy the LCC based on the commercial off-the-shelf (COTS) devices,  thanks to the popularity of LED and smartphones equipped with digital camera.  However, 
+Most of the existing approaches employ the on-off keying~(OOK) as the modulation scheme, which can be easily interfered by ambient light. % and non-clean background. 
+%and the data rate is low as it has limited degree of freedom in the signal space. 
+Therefore, in this paper, we propose a novel  scheme called Frequency and Amplitude Modulation~(FAM). %The design principle behind FAM is that 
+We advocate to explore two  degrees of freedom in the signal space, i.e., magnitude and frequency,  to improve the system %throughput and 
